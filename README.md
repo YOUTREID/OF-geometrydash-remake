@@ -1,2 +1,2 @@
-# OF-geometrydash-remake
-remake of the popular game geometry dash
+# My own version of the popular game Geometry Dash
+
