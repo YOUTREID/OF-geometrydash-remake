@@ -1,4 +1,2 @@
-# Remake of Geometry Dash
-
-Remake of the popular game geometry dash using open frameowork and C++
+# My own version of the popular game Geometry Dash
 
